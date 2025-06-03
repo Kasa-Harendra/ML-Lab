@@ -1,0 +1,15 @@
+outlook,temp,humidity,wind,Score
+sunny,hot,high,weak,25
+sunny,hot,high,strong,30
+overcast,hot,high,weak,46
+rainy,mild,high,weak,45
+rainy,cool,normal,weak,52
+rainy,cool,normal,strong,23
+overcast,cool,normal,strong,43
+sunny,mild,high,weak,35
+sunny,cool,normal,weak,38
+rainy,mild,normal,weak,46
+sunny,mild,normal,strong,48
+overcast,mild,high,strong,52
+overcast,hot,normal,weak,44
+rainy,mild,high,strong,30
